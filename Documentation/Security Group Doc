@@ -1,0 +1,28 @@
+Day 2 - OU and Security Group Documentation
+
+Organizational Units:
+- Finance
+- HR
+- IT
+- Operations
+
+Security Groups:
+- Finance-Users
+- HR-Users
+- IT-Users
+- Operations-Users
+
+Purpose:
+- Finance OU: Stores Finance department user accounts.
+- Finance-Users: Security group used to assign Finance users department-based access and permissions.
+
+- HR OU: Stores HR department user accounts.
+- HR-Users: Security group used to assign HR users department-based access and permissions.
+
+- IT OU: Stores IT department user accounts.
+- IT-Users: Security group used to assign IT users department-based access and permissions.
+
+- Operations OU: Stores Operations department user accounts.
+- Operations-Users: Security group used to assign Operations users department-based access and permissions.
+
+These OUs and security groups were created to organize users by department and support role-based access control (RBAC) within the NMG.com domain.
