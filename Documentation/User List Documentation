@@ -1,0 +1,120 @@
+DAY 3 - USER LIST DOCUMENTATION
+
+Domain: NMG.com
+Total Users Created: 15
+
+FINANCE
+
+1. David Chen
+Username: dchen
+UPN: dchen@NMG.com
+Department: Finance
+Job Title: Finance Manager
+Security Group: Finance-Users
+
+2. Karen Mills
+Username: kmills
+UPN: kmills@NMG.com
+Department: Finance
+Job Title: Finance Analyst
+Security Group: Finance-Users
+
+3. Robert Hayes
+Username: rhayes
+UPN: rhayes@NMG.com
+Department: Finance
+Job Title:
+Security Group: Finance-Users
+
+4. Lisa Park
+Username: lpark
+UPN: lpark@NMG.com
+Department: Finance
+Job Title:
+Security Group: Finance-Users
+
+
+HR
+
+5. Sandra Torres
+Username: storres
+UPN: storres@NMG.com
+Department: HR
+Job Title:
+Security Group: HR-Users
+
+6. James Whitfield
+Username: jwhitfield
+UPN: jwhitfield@NMG.com
+Department: HR
+Job Title:
+Security Group: HR-Users
+
+7. Michelle Grant
+Username: mgrant
+UPN: mgrant@NMG.com
+Department: HR
+Job Title:
+Security Group: HR-Users
+
+
+IT
+
+8. Marcus Johnson
+Username: mjohnson
+UPN: mjohnson@NMG.com
+Department: IT
+Job Title:
+Security Group: IT-Users
+
+9. Priya Patel
+Username: ppatel
+UPN: ppatel@NMG.com
+Department: IT
+Job Title:
+Security Group: IT-Users
+
+10. Tyler Brooks
+Username: tbrooks
+UPN: tbrooks@NMG.com
+Department: IT
+Job Title:
+Security Group: IT-Users
+
+11. Aisha Coleman
+Username: acoleman
+UPN: acoleman@NMG.com
+Department: IT
+Job Title:
+Security Group: IT-Users
+
+
+OPERATIONS
+
+12. Brian Foster
+Username: bfoster
+UPN: bfoster@NMG.com
+Department: Operations
+Job Title:
+Security Group: Operations-Users
+
+13. Jane Cooper
+Username: jcooper
+UPN: jcooper@NMG.com
+Department: HR
+Job Title: Payroll Specialist
+Security Group: Operations-Users (incorrect on Day 3; corrected to HR-Users on Day 4)
+
+14. Carlos Rivera
+Username: crivera
+UPN: crivera@NMG.com
+Department: Operations
+Job Title:
+Security Group: Operations-Users
+
+15. Natalie Ross
+Username: nross
+UPN: nross@NMG.com
+Department: Operations
+Job Title:
+Security Group: Operations-Users
